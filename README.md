@@ -1,7 +1,7 @@
-#API Star Wars Geek#
+# API **Star Wars Geek**
 
 
-this API provide us 19 products with the following resources:
+## this API provide us 19 products with the following resources:
 
 
 -foto: is the image of the product itself in base64 format
