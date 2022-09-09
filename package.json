@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "fake_api-alurageek",
+  "description": "this API provide us 19 products with the following resources:",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "API_Geek",
+    "Star_Wars"
+  ],
+  "author": "Gilbert Ardila",
+  "license": "MIT"
+}
